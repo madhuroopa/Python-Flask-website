@@ -1,5 +1,5 @@
 # Python-Flask-website
-Python Flask sample website
+Python-Flask sample website
 
 # Tools 
 ## IDE : Pycharm
